@@ -1,4 +1,4 @@
- Shahala Rahshima A - Online Resume
+# Shahala Rahshima A - Online Resume
 
 Hi! This is my personal resume website made using HTML and CSS.  
 It highlights my skills, education, and experience as a Python developer interested in AI/ML and web development.
@@ -10,7 +10,7 @@ It highlights my skills, education, and experience as a Python developer interes
 - Simple and easy to navigate  
 
 ## How to view
-1. Clone the repo:
+1. Clone the repo:  
    ```bash
    git clone https://github.com/Shahala10/Cv.git
 Open index.html in your browser.
@@ -25,5 +25,7 @@ https://shahala10.github.io/Cv/
 
 Contact
 Email: shahalarahshima@example.com
+
 GitHub: Shahala10
+
 LinkedIn: Shahala Rahshima
