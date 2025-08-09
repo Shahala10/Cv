@@ -1,4 +1,3 @@
-# Cv
 # Shahala Rahshima A - Online Resume
 
 Hi! This is my personal resume website made using HTML and CSS.  
