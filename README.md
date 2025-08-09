@@ -12,12 +12,12 @@ It highlights my skills, education, and experience as a Python developer interes
 ## How to view
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Shahala10/cv-website.git
+   git clone https://github.com/Shahala10/Cv.git
 
 2.Open cv.html in your browser.
 
 Contact
-Email: shahalarahshima@example.com
+Email: shahalarahshima@gmail.com
 GitHub: Shahala10
 LinkedIn: Shahala Rahshima
 
