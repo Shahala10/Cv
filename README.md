@@ -22,5 +22,11 @@ GitHub: Shahala10
 LinkedIn: Shahala Rahshima
 
 ## Live Demo
+
 You can see my resume online here:  
-[View my Resume](https://shahala10.github.io/Cv/)
+[https://shahala10.github.io/Cv/](https://shahala10.github.io/Cv/)
+
+## Project Page
+
+You can view the live resume here:  
+[https://shahala10.github.io/Cv/](https://shahala10.github.io/Cv/)
