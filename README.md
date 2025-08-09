@@ -23,4 +23,4 @@ LinkedIn: Shahala Rahshima
 
 ## Live Demo
 You can see my resume online here:  
-[View my Resume](https://shahala10.github.io/cv-website/)
+[View my Resume](https://shahala10.github.io/roadmap/)
